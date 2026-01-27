@@ -11,3 +11,9 @@
 - [The Chef's Secret Recipe](The%20Chef's%20Secret%20Recipe.md)
 - [Tomwhat](Tomwhat.md)
 - [revoked](revoked.md)
+
+
+## 0XL4ugh
+
+-[4lld4y]()
+-[iUseArchBTW]()
