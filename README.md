@@ -15,5 +15,5 @@
 
 ## 0XL4ugh
 
-- [4lld4y]()
-- [iUseArchBTW]()
+- [4lld4y](4lld4y.md)
+- [iUseArchBTW](IUseArchBtw.md)
