@@ -1,5 +1,8 @@
 ## I Use Arch Btw
 
-bruh brainrot ahh challenege
-
 go to this github repo 
+```
+https://github.com/overmighty/i-use-arch-btw
+```
+
+decode.
