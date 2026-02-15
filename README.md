@@ -20,5 +20,5 @@
 
 ## NullCon
 
-- [DiNoS](DiNos.md)
+- [DiNoS](DiNoS.md)
 - []()
