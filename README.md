@@ -25,3 +25,7 @@
 - [emoji](emoji.md)
 - [Seen](Seen.md)
 - [rdct](rdct.md)
+
+## 0xFUN
+- [UART]()
+- [Shell]()
